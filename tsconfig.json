@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "outDir": "./build",
+        "target": "es5",
+        "lib": [
+            "DOM",
+            "ESNext"
+        ],
+    },
+    "include": ["./src/**/*"]
+}
